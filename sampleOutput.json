@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kenyan marathon world record holder Kelvin Kiptum dies in road accident",
+      "description": "The 24-year-old Kenyan athlete had the potential to be one of the greatest runners over 42km.",
+      "url": "https://www.bbc.co.uk/news/world-africa-68270866",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A034/production/_132621014_e19163db444b079c031a33f248a6072d51149c6f.jpg",
+      "publishedAt": "2024-02-12T19:52:21.0625706Z",
+      "content": "The men's marathon world record holder, Kenya's Kelvin Kiptum, 24, has died in a road accident in his home country.\r\nHe was killed alongside his coach, Rwanda's Gervais Hakizimana, in a car on a road… [+4228 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Super Bowl 2024: Patrick Mahomes steps up Tom Brady chase as leader of NFL's new dynasty",
+      "description": "Patrick Mahomes again showed why he could chase down Tom Brady's records as he led the Kansas City Chiefs to back-to-back Super Bowl wins - and they believe glory can be theirs again next year.",
+      "url": "https://www.bbc.co.uk/sport/american-football/68250151",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/74EC/production/_132623992_gettyimages-1996273370.jpg",
+      "publishedAt": "2024-02-12T19:52:18.2179435Z",
+      "content": "\"I think Tom [Brady] said it best - once you win that championship and you have those parades and you get those rings, you're not the champion any more. \r\n\"You have to come back with that same mental… [+1019 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Palestinians sheltering in Rafah fear impending Israeli ground offensive",
+      "description": "The UN warns an assault on the city where more than a million people are sheltering would be \"terrifying\".",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68276216",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31DA/production/_132626721_c8c87b16988bef47c3d3863a5e8b41c4e3a369c40_0_6236_40661000x652.jpg",
+      "publishedAt": "2024-02-12T19:37:18.8274733Z",
+      "content": "A Palestinian doctor in Rafah has said people are terrified about the prospect of an Israeli ground offensive in Gaza's southern-most city, after a night of some of the worst air strikes he has exper… [+7465 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Europe needs a decade to build up arms stocks, says defence firm boss",
+      "description": "The head of Rheinmetall, Germany's biggest defence firm, says Europe's ammunition stocks are currently empty.",
+      "url": "https://www.bbc.co.uk/news/world-europe-68273449",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D202/production/_132626735_e7b3c652df243a03724c32ef75bd949f858dff670_405_5568_31325568x3132.jpg",
+      "publishedAt": "2024-02-12T18:52:18.8754337Z",
+      "content": "Europe will need 10 years before it is fully ready to defend itself, the boss of Germany's biggest defence firm, Rheinmetall, told the BBC.\r\nArmin Papperger said that ammunition stocks are currently … [+3942 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Gaza war: What we know about Israel's Rafah hostage rescue raid",
+      "description": "Israeli commandos rescued two men in an operation that reportedly killed dozens of Palestinians.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68276452",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2866/production/_132624301_2bebd48d32c323ae2571bf5d20bd1430d2b8aa64.jpg",
+      "publishedAt": "2024-02-12T18:22:20.0771066Z",
+      "content": "Details have begun to emerge of an overnight Israeli military operation which freed two Israeli-Argentine hostages held captive by Hamas in the city of Rafah, in the southern Gaza Strip. \r\nIsraeli fo… [+6459 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Israel to act on soldier misconduct after BBC investigation",
+      "description": "A BBC Verify investigation found videos showing detainees that legal experts say may breach international law.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68277124",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/244A/production/_132609290_f795556b-1abe-42b5-a9c1-e19a8bfe76cf.jpg",
+      "publishedAt": "2024-02-12T18:22:18.2566076Z",
+      "content": "Media caption, BBC Verify found videos posted online showing Gaza detainees bound and blindfolded - this video was posted on 24 December 2023\r\nThe Israeli military has told BBC Verify it will take ac… [+3230 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US Defence Secretary Austin cancels Nato meetings amid return to hospital",
+      "description": "The US defence secretary is in a critical care unit with an \"emergent bladder issue\".",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68278651",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2024-02-12T17:07:19.7174845Z",
+      "content": "US Defence Secretary Lloyd Austin has cancelled an overseas trip to a Nato meeting after being admitted to hospital for the third time in as many months.\r\nMr Austin, 70, was taken to a critical care … [+351 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Robert F Kennedy Jr apologises to family over Super Bowl ad",
+      "description": "The advertisement, aired just before halftime, spliced images of the candidate into a 1960 JFK ad.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68275635",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBF7/production/_132611365_gettyimages-1993689815.jpg",
+      "publishedAt": "2024-02-12T16:37:16.2275286Z",
+      "content": "Robert F Kennedy Jr has apologised to relatives after a Super Bowl advert mirrored one broadcast by his uncle John F Kennedy's campaign in 1960. \r\nMr Kennedy, an environmental lawyer and anti-vaccine… [+2633 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Lakewood church: What we know about Texas megachurch shooting",
+      "description": "A woman was shot and killed by police after she opened fire at Joel Osteen’s Texas megachurch.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68277166",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D0CC/production/_132625435_476e420ed7bbcf8f4ddbf09016a14e2553f0fd76.jpg",
+      "publishedAt": "2024-02-12T16:07:19.5323346Z",
+      "content": "A Texas woman has been shot and killed after she opened fire in a crowded megachurch owned by the evangelical pastor Joel Osteen. \r\nTwo off-duty police officers, working as church security, shot and … [+2498 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'Lol hey guys' - Biden joins TikTok despite security concerns",
+      "description": "The president joins the app to reach younger voters, despite it being blocked on most US government devices.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68275634",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1095C/production/_132623976_gettyimages-1988742998.jpg",
+      "publishedAt": "2024-02-12T15:07:15.9931002Z",
+      "content": "President Joe Biden's campaign has joined TikTok, despite the app being banned on most US government devices over security concerns. \r\nHis campaign launched its account with the username \"@bidenhq\" d… [+1562 chars]"
+    }
+  ]
+}
