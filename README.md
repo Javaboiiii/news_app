@@ -1,3 +1,7 @@
+# About APP 
+
+This is the React APP that helps us to retrvie the news of any kind like Business, Health, Education, etc. Also gives us the Trending video. So we can keep up with the Present in the less time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
