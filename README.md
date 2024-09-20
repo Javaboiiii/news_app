@@ -1,6 +1,15 @@
+# My Experience 
+
+I was learning React JS Technology from Code with Harry and he taught me how to handle API's and many more about the Technology. It was great learning experience and I tried to replicate his project.
+
 # About APP 
 
 This is the React APP that helps us to retrvie the news of any kind like Business, Health, Education, etc. Also gives us the Trending video. So we can keep up with the Present in the less time.
+
+# Demo 
+
+![image](https://github.com/user-attachments/assets/91b814e6-0ab3-4f2b-8cce-2c406e4b44e2)
+
 
 # Getting Started with Create React App
 
